@@ -1,9 +1,9 @@
-const CACHE_NAME = 'gym-tracker-v3';
+const CACHE_NAME = 'gym-tracker-v4';
 const urlsToCache = [
-    '/gymtracker/',
-    '/gymtracker/index.html',
-    '/gymtracker/manifest.json',
-    '/gymtracker/icon.png',
+    './',
+    './index.html',
+    './manifest.json',
+    './icon.png',
     'https://cdn.tailwindcss.com'
 ];
 

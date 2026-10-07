@@ -1,7 +1,8 @@
 {
-  "name": "HIT Tracker",
-  "short_name": "HIT Tracker",
-  "start_url": "/",
+  "name": "Gym Tracker",
+  "short_name": "Gym Tracker",
+  "start_url": "/gymtracker/index.html",
+  "scope": "/gymtracker/",
   "display": "standalone",
   "background_color": "#1f2937",
   "theme_color": "#1f2937",
